@@ -38,7 +38,6 @@ This project demonstrates CPU Scheduling Algorithms including FCFS, SJF, and Rou
 
 ## 🔗 Live Demo
 https://helloafrah.github.io/CPU-Scheduling-Simulator/
-file:///C:/Users/DELL/OneDrive/Documents/VIT/WINTER%20SEM%2025.26/OS/CPU%20Scheduling%20Simulator/index.html
 
 ## 🧠 Conclusion
 This project helps understand how different CPU scheduling algorithms affect performance and efficiency.
