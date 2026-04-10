@@ -41,5 +41,14 @@ This project demonstrates CPU Scheduling Algorithms including FCFS, SJF, and Rou
 ## 🔗 Live Demo
 https://helloafrah.github.io/CPU-Scheduling-Simulator/
 
+## Advancements
+Some advanced enhancements that can be incorporated are:
+
+Preemptive SJF (Shortest Remaining Time First): In this approach, the currently running process can be interrupted if a new process with a shorter burst time arrives.
+Performance Comparison: The algorithms can be compared using average waiting time and turnaround time to analyze efficiency.
+Edge Case Handling: The system accounts for cases such as processes with the same arrival time and situations where the CPU remains idle.
+
+These enhancements provide scope for further improvement and deeper understanding of scheduling techniques.
+
 ## 🧠 Conclusion
 This project helps understand how different CPU scheduling algorithms affect performance and efficiency.
