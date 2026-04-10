@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f5f5f5;
+}
+
+h1 {
+    color: #333;
+}
+
+.input-section input {
+    margin: 5px;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 12px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+table {
+    margin: 20px auto;
+    background: white;
+}
+
+#output {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#gantt {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.box {
+    padding: 10px;
+    border: 1px solid black;
+    margin: 2px;
+    background: lightblue;
+}
+
+/* ACTIVE BUTTON */
+.active-btn {
+    background-color: #4CAF50;
+    color: white;
+}
